@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# James Snee
 
-You can use the [editor on GitHub](https://github.com/jamessnee/jamessnee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I enjoy writing systems software and currently work in silicon valley.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have experience working in kernel development and tracing infrastructure. I am currently building performance and profiling tools at Apple Inc.
 
-### Markdown
+### Publications
+Shadow kernels: A general mechanism for kernel specialization in existing operating systems. Oliver R. A. Chick, Lucian Carata, James Snee, Ripduman Sohan. *APSys 2015*, **Best Paper** - [Link](https://www.repository.cam.ac.uk/handle/1810/248789)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Soroban: Attributing Latency in Virtualized Environments. James Snee, Lucian Carata, Oliver R. A. Chick, Ripduman Sohan, Andrew Rice, Andy Hopper. *USENIX Workshop on Hot Topics in Cloud Computing (HotCloud) 2015* - [Link](https://www.usenix.org/conference/hotcloud15/workshop-program/presentation/snee)
 
-```markdown
-Syntax highlighted code block
+Resourceful: fine grained resource accounting for explaining service variability. Lucian Carata, Oliver Chick, James Snee, Ripduman Sohan and Andy Hopper. *Technical Report*, UCAM-CL-TR-859 - [Link](http://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-859.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+Advances in Technology: The opportunities and challenges for provenance. Nikilesh Balakrishnan, Thomas Bytheway, Lucian Carata, Oliver R. A. Chick, James Snee, Ripduman Sohan, Margo Seltzer, Andy Hopper. *7th International Workshop on Theory and Practice of Provenance (2015)* - [Link](http://workshops.inf.ed.ac.uk/tapp2015/TAPP15_II_4.pdf)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamessnee/jamessnee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Captain Buzz: An all-smartphone autonomous delta-wing drone. Ramsey M. Fargher, Oliver R. A. Chick, Daniel Wagner, Timothy Goh, James Snee, Brian Jones. *Workshop on Micro Aerial Vehicle Networks, Systems, and Applications for Civilian Use (2015)* - [Link](http://www.cl.cam.ac.uk/~oc243/buzz.pdf)
