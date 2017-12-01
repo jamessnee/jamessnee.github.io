@@ -1,6 +1,6 @@
 I write systems software and currently work in silicon valley.
 
-I have experience working in kernel development and tracing infrastructure. I am currently building performance and profiling tools at Apple Inc.
+I have experience working in kernel development and tracing infrastructure and I'm currently building performance and profiling tools at Apple Inc.
 
 ### Publications
 Shadow kernels: A general mechanism for kernel specialization in existing operating systems. Oliver R. A. Chick, Lucian Carata, James Snee, Ripduman Sohan. *APSys 2015*, **Best Paper** - [Link](https://www.repository.cam.ac.uk/handle/1810/248789)
