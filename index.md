@@ -1,4 +1,4 @@
-I write systems software and currently work in silicon valley.
+I write systems software and currently work in Silicon Valley.
 
 I have experience working in kernel development and tracing infrastructure and I'm currently building performance and profiling tools at Apple Inc.
 
