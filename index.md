@@ -1,6 +1,4 @@
-# James Snee
-
-I enjoy writing systems software and currently work in silicon valley.
+I write systems software and currently work in silicon valley.
 
 I have experience working in kernel development and tracing infrastructure. I am currently building performance and profiling tools at Apple Inc.
 
